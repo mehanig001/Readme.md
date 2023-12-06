@@ -1,7 +1,7 @@
 
   
 ### <div align="center"><h1> Hi there 👋👨💻</h1></div>  
-### <div align="center"> I'm <h1> Gautam Mehani, </h1>a passionate Programmer👨‍💻</div>  
+### <div align="center"> <h1> I'm Gautam </h1>a passionate Programmer👨‍💻</div>  
   <br/>
 
 - 🔭 I’m currently pursuing BTech CSE from [MANIT](http://www.manit.ac.in/)  
@@ -11,11 +11,6 @@
   
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
 
 
 
