@@ -19,7 +19,7 @@
 <br/>  
 <h2>Coding Profiles </h2>   
 <div align="left">
-<a href="https://www.codechef.com/users/gautammehani24" target="_blank">
+<a href="https://www.codechef.com/users/mehanig001" target="_blank">
 <img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png width=20% alt=codechef  />
 </a>
  
