@@ -4,10 +4,10 @@
 ### <div align="center"> <h1> I'm Gautam </h1>a passionate Programmer👨‍💻</div>  
   <br/>
 
-- 🔭 I’m currently pursuing BTech CSE from [MANIT](http://www.manit.ac.in/)  
+- 👨‍🎓 I’m currently pursuing BTech CSE from [MANIT](http://www.manit.ac.in/)  
   
 
-- 🌱 I’m currently doing CP.  
+-  😎I’m currently doing CP.  
   
 
 <br/>  
